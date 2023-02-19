@@ -12,7 +12,7 @@
 [Questions](#questions)
 
 ## Description
-This is command-line application for generating README files
+This is command-line application for generating README files. 
 RECORD VIDEO LINK: https://drive.google.com/file/d/1UpInOudCWziqNt95Wrt0c43Ims7qcFC1/view
 ## Installation
 npm install
