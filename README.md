@@ -15,15 +15,17 @@
 
 ## Description
 This is command-line application for generating README files. 
+
 RECORD VIDEO LINK: https://drive.google.com/file/d/1UpInOudCWziqNt95Wrt0c43Ims7qcFC1/view
+
 ## Installation
 npm install
 
 ## Usage
-Run node.js, answer all questions then the file will be generated automaticaly
+Run node.js, answer all questions then file will be generated automaticaly
 
 ## Tests
-npm test
+Not testing at this time
 
 ## Contributing
 Any contributors are welcome
